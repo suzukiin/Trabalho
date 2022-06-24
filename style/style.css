@@ -1,0 +1,29 @@
+#produtos,
+#carrinho {
+    width: 900px;
+    margin: auto;
+    padding:2%;
+    display: flex;
+
+}
+
+div#carrinho{
+    border: solid 2px black;
+    font-size: 18pt;
+}
+
+.imagem {
+    height: 300px;
+}
+
+.nome-produto{
+    text-align: center;
+    font-size: 18pt;
+}
+
+.pagamento{
+    text-align: center;
+    margin-top: 100px;
+}
+
+
